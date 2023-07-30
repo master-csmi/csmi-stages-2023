@@ -2,42 +2,34 @@
 |===
 | Nom | Prénom | Entreprise | Sujet
 
-| De Rose | Stève | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la transmission aéroportéedu COVID-19_
+| Alidadi Heran | Sacha | link:[Bdr Thermea France] | _Estimation du volume consommé à partir de capteurs de température_
 
-| Dumont | Quentin | link:[Bdr Thermea France] | _Optimisation multi-objectifs sous contraintes_
+| Ballout | Hassan | link:[Irma] | _Reduced Basis-Ensemble Kalman Filter method 
+pour les EDP_
 
-| Grigoryan | Mariam | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la qualité d'air dans des bâtiments et application au Covid-19_
+| Barkan | Iman | link:[Universite De Strasbourg] | _Accélération de la saisie de modèles énergétiques_
 
-| Guidet | Laurène | link:[Universite De Strasbourg - Ufr Math-Info] | _Mesurer et modéliser la performance du cycliste en compétition_
+| De Vora | Ariel | link:[Universite De Strasbourg] | _Étude et modélisation de l'environnement de bâtiments_
 
-| Holler | Colin | link:[Universite De Strasbourg - Ufr Math-Info] | _Implémentation et comparaison de modèles cardiovasculaire_
+| Dieng | Adama | link:[Universite De Strasbourg] | _Amélioration de le convergence de newton pour des problèmes en temps, en utilisant des stratégies d’adaptation du pas de temps en fonction de la convergence de Newton, ainsi qu’une stratégie sur la condition initiale basée sur une solution supposée sur un maillage grossier, et l’utilisation d’un réseau de neurones._
 
-| Italiano | Vincent | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Stratégies optimales de régulation d'épidémies_
+| Ecker | Nick | link:http://paulwurth.com[Paul Wurth Sa] | _Évaluation d'une plateforme intelligente permettant l'entraînement rapide de modèles de Machine Learning. La plateforme sera évaluée pour plusieurs projets dans le domaine industriel de la production de fer et d'acier. L'objectif étant de définir les caractéristiques de la plateforme à améliorer ou à intégrer._
 
-| Jacquin | Lucas | link:https://www.unistra.fr[Universite De Strasbourg] | _Nage active dans un fluide_
+| Fonseca Hincapie | Diana Sol Angel | link:[Universite De Strasbourg] | _Interpolation augmentée par apprentissage_
 
-| Kermezli | Ikram | link:[Universite De Strasbourg - Ufr Math-Info] | _Classification Cahn hilliard_
+| Lelievre | Thomas | link:[Axessim] | _Extraction de modèles de terrain_
 
-| Klein | Anita | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la respiration en présence de pathologies_
+| Medessi | Seithondji Dieudonné | link:[Axessim] | _Extraction de modèles numériques de terrain à partir de bases de données._
 
-| Klockenbring | Dimitri | link:[Bdr Thermea France] | _Optimisation multi-objectifs sous contraintes_
+| Pawlus | Jérémy | link:[Universite De Strasbourg - Ufr Math-Info] | _Étude numérique des équations d'Euler_
 
-| Loeb | Quentin | link:[Bdr Thermea France] | _Construire un modèle de pompe à chaleur à partir de DLL fournisseurs_
+| Portillo Navarrete | Jose Rene | link:[Universite De Strasbourg] | _Modélisation énergétique des bâtiments_
 
-| Lorentz | Celine | link:[Universite De Strasbourg - Ufr Math-Info] | _Mesurer et modéliser la performance du cycliste en compétition_
+| Saba | Obed | link:[Universite De Strasbourg - Ufr Math-Info] | _Simulation d'une infiltration d'eau et écoulement diphasique dans un milieu poreux avec Feel++_
 
-| Mengel | Corentin | link:https://www.unistra.fr[Universite De Strasbourg] | _Traitement des discontinuités dans les simulation EDP par apprentissage sur maillage_
+| Schmittbiel | Carl | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Ajustement de modèles BRDF a des tables r_
 
-| Mousel | Jimmy | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de l’impact environnemental sur des cyclistes professionnels et des personnes dans des bâtiments._
-
-| Muzet | Jeremie | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Analyse théorique des relations entre les approches acoustiques semi-phénoménologique et les approche d'homogénéisation auto-cohérente à géométrie cylindrique_
-
-| Reitzer | Marie | link:https://www.e-i.com/fr/index.html[Euro Information Developpements] | _Projet de réalisation d’un applicatif destiné à extraire une synthèse de la vie et de la valorisation d’un ou de plusieurs contrats en Assurance Vie  appartenant à un tiers._
-
-| Schuffenecker | Antoine | link:https://www.alphaby.fr/[Alphaby] | _Analyse des données pour la création d'une aide à la rédaction d'une offre d'emploi pour les entreprises_
-
-| Untz | Mélissa | link:[Universite De Strasbourg - Ufr Math-Info] | _Le cycliste virtuel_
-
-| Van Landeghem | Celine | link:https://tetrao.eu/#use-cases[Tetrao] | _Développement d’algorithmes d’automatisation de processus web d’extractions de données_
+| Wade | Abdou | link:[Irma] | _Planification de
+mouvement_
 
 |===
