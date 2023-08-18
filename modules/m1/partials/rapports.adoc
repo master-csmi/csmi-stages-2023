@@ -28,3 +28,5 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
 
  - [[[Wade]]] Wade Abdou, _Planification de
 mouvement_, link:[Irma], xref:attachment$Wade-Abdou.pdf[Wade-Abdou.pdf],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
+
+http://127.0.0.1:8080
