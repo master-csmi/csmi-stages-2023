@@ -14,7 +14,7 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
 
  - [[[FonsecaHincapie]]] Fonseca Hincapie Diana Sol Angel, _Interpolation augmentée par apprentissage_, link:[Universite De Strasbourg], xref:attachment$Fonseca Hincapie-Diana Sol Angel.pdf[Fonseca Hincapie-Diana Sol Angel.pdf],  xref:attachment$Fonseca Hincapie-Diana Sol Angel-slides.pdf[Fonseca Hincapie-Diana Sol Angel-slides.pdf] 
 
- - [[[Lelievre]]] Lelievre Thomas, _Extraction de modèles de terrain_, link:[Axessim], xref:attachment$Lelievre-Thomas.pdf[Lelievre-Thomas.pdf],  xref:attachment$Lelievre-Thomas-slides.pdf[Lelievre-Thomas-slides.pdf] 
+ - [[[Lelievre]]] Lelievre Thomas, _Extraction de modèles de terrain_, link:[Axessim], https://tcyla.github.io/internship-report-2023[Lelievre-Thomas-site],  xref:attachment$Lelievre-Thomas-slides.pdf[Lelievre-Thomas-slides.pdf] 
 
  - [[[Medessi]]] Medessi Seithondji Dieudonné, _Extraction de modèles numériques de terrain à partir de bases de données._, link:[Axessim], xref:attachment$Medessi-Seithondji Dieudonné.pdf[Medessi-Seithondji Dieudonné.pdf],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
 
