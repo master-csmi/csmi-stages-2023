@@ -1,7 +1,9 @@
 from openpyxl import Workbook
 from openpyxl import load_workbook
 import itertools
-wb = load_workbook('stages.xlsx',)
+
+year='m2'
+wb = load_workbook(f'stages-{year}.xlsx',)
 print('sheets:',wb.sheetnames)
 
 
@@ -10,15 +12,15 @@ names=ws['C']
 firstnames = ws['D']
 codes = ws['L']
 sujets = ws['T']
-entreprises = ws['BB']
-www_entreprises = ws['BQ']
+entreprises = ws['BC']
+www_entreprises = ws['BR']
 
 masterlist = (('m1', 'MI6251'), ('m2', 'MI6252'))
 
 def writeRapports(f, n, fn, s, e, w ):
     f.write(
 """
- - [[[{0}]]] {1} {2}, _{4}_, link:{5}[{3}], link:{{attachmentsdir}}/++{1}-{2}.pdf++[{1}-{2}.pdf],  link:{{attachmentsdir}}/++{1}-{2}-slides.pdf++[{1}-{2}-slides.pdf] 
+ - [[[{0}]]] {1} {2}, _{4}_, link:{5}[{3}], xref:attachment${1}-{2}.pdf[{1}-{2}.pdf],  xref:attachment${1}-{2}-slides.pdf[{1}-{2}-slides.pdf] 
 """.format(n.value.title().replace(" ", ""), n.value.title(), fn.value.title(), e.value.title().strip(), s.value.capitalize().strip(), w.value.strip()))
 
 
@@ -30,21 +32,22 @@ def writeTableEntry(f, n, fn, s, e, w):
 
 
 for module,master in masterlist:
-    f = open("modules/"+module+"/partials/rapports.adoc", "w")
-    for n, fn, c, s, e,w in sorted(zip(names, firstnames, codes, sujets, entreprises,www_entreprises), key=lambda x: x[0].value):
-        if c.value == master :
-            writeRapports(f, n, fn, s, e, w)
-    f.close()
-    f = open("modules/"+module+"/partials/stages.adoc", "w")
-    f.write('[cols="1,1,2,4"]\n|===\n')
-    f.write('| Nom | Prénom | Entreprise | Sujet\n')
-    for n, fn, c, s, e,w in sorted(zip(names, firstnames, codes, sujets, entreprises,www_entreprises), key=lambda x: x[0].value):
-        if c.value == master :
-            writeTableEntry(f, n, fn, s, e, w)
-    f.write('\n|===')
-    f.close()
+    if module == year:
+        f = open("modules/"+module+"/partials/rapports.adoc", "w")
+        for n, fn, c, s, e,w in sorted(zip(names, firstnames, codes, sujets, entreprises,www_entreprises), key=lambda x: x[0].value):
+            if c.value == master :
+                writeRapports(f, n, fn, s, e, w)
+        f.close()
+        f = open("modules/"+module+"/partials/stages.adoc", "w")
+        f.write('[cols="1,1,2,4"]\n|===\n')
+        f.write('| Nom | Prénom | Entreprise | Sujet\n')
+        for n, fn, c, s, e,w in sorted(zip(names, firstnames, codes, sujets, entreprises,www_entreprises), key=lambda x: x[0].value):
+            if c.value == master :
+                writeTableEntry(f, n, fn, s, e, w)
+        f.write('\n|===')
+        f.close()
 
-encadrants = ws['CA']
+encadrants = ws['CB']
 
 emails={'m1':' ','m2':' '}
 for module, master in masterlist:
