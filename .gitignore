@@ -2,3 +2,5 @@ build/
 PSTAGE**/
 public/
 /stages.*
+node_modules/
+cache/
