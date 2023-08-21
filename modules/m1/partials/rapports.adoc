@@ -4,7 +4,7 @@
  - [[[Ballout]]] Ballout Hassan, _Reduced basis-ensemble kalman filter method 
 pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pdf],  xref:attachment$Ballout-Hassan-slides.pdf[Ballout-Hassan-slides.pdf] 
 
- - [[[Barkan]]] Barkan Iman, _Accélération de la saisie de modèles énergétiques_, link:[Universite De Strasbourg], xref:attachment$Barkan-Iman.pdf[Barkan-Iman.pdf],  xref:attachment$Barkan-Iman-slides.pdf[Barkan-Iman-slides.pdf] 
+ - [[[Barkan]]] Barkan Iman, _Accélération de la saisie de modèles énergétiques_, link:[Universite De Strasbourg], https://feelpp.github.io/ktirio-iloomi/ktirio-iloomi/index.html[Antora site],  xref:attachment$Barkan-Iman-slides.pdf[Barkan-Iman-slides.pdf] 
 
  - [[[DeVora]]] De Vora Ariel, _Étude et modélisation de l'environnement de bâtiments_, link:[Universite De Strasbourg], xref:attachment$De Vora-Ariel.pdf[De Vora-Ariel.pdf],  xref:attachment$De Vora-Ariel-slides.pdf[De Vora-Ariel-slides.pdf] 
 
