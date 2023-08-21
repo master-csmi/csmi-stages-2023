@@ -16,7 +16,7 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
 
  - [[[Lelievre]]] Lelievre Thomas, _Extraction de modèles de terrain_, link:[Axessim], xref:attachment$Lelievre-Thomas.pdf[Lelievre-Thomas.pdf],  xref:attachment$Lelievre-Thomas-slides.pdf[Lelievre-Thomas-slides.pdf] 
 
- - [[[Medessi]]] Medessi Seithondji Dieudonné, _Extraction de modèles numériques de terrain à partir de bases de données._, link:https://donnescopablo.github.io/csmi-m1-stage-2023-playbook[Axessim], xref:attachment$Medessi-Seithondji Dieudonné.pdf[Medessi-Seithondji Dieudonné.pdf],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
+ - [[[Medessi]]] Medessi Seithondji Dieudonné, _Extraction de modèles numériques de terrain à partir de bases de données._, link:https://www.axessim.fr/[Axessim], link:https://donnescopablo.github.io/csmi-m1-stage-2023-playbook[Medessi-Seithondji Dieudonné-rapport],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
 
  - [[[Pawlus]]] Pawlus Jérémy, _Étude numérique des équations d'euler_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pawlus-Jérémy.pdf[Pawlus-Jérémy.pdf],  xref:attachment$Pawlus-Jérémy-slides.pdf[Pawlus-Jérémy-slides.pdf] 
 
