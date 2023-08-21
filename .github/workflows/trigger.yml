@@ -17,7 +17,7 @@ jobs:
     - name: Update CSMI 2023 Internships 
       env:
         GITHUB_TOKEN: ${{ secrets.CR_PAT }}
-        EVENT: csmi-update-trigger
+        EVENT: stages-updates
         ORG: master-csmi
         REPO: csmi
       run: |
