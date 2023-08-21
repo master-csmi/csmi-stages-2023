@@ -24,7 +24,7 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
 
  - [[[Saba]]] Saba Obed, _Simulation d'une infiltration d'eau et écoulement diphasique dans un milieu poreux avec feel++_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Saba-Obed.pdf[Saba-Obed.pdf],  xref:attachment$Saba-Obed-slides.pdf[Saba-Obed-slides.pdf] 
 
- - [[[Schmittbiel]]] Schmittbiel Carl, _Ajustement de modèles brdf a des tables r_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], xref:attachment$Schmittbiel-Carl.pdf[Schmittbiel-Carl.pdf],  xref:attachment$Schmittbiel-Carl-slides.pdf[Schmittbiel-Carl-slides.pdf] 
+ - [[[Schmittbiel]]] Schmittbiel Carl, _Amélioration de modèles d'approximation de tables-r_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], xref:attachment$Schmittbiel-Carl.pdf[Schmittbiel-Carl.pdf],  xref:attachment$Schmittbiel-Carl-slides.pdf[Schmittbiel-Carl-slides.pdf] 
 
  - [[[Wade]]] Wade Abdou, _Planification de
 mouvement_, link:[Irma], xref:attachment$Wade-Abdou.pdf[Wade-Abdou.pdf],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
