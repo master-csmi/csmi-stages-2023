@@ -6,7 +6,7 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
 
  - [[[Barkan]]] Barkan Iman, _Accélération de la saisie de modèles énergétiques_, link:[Universite De Strasbourg], https://feelpp.github.io/ktirio-iloomi/ktirio-iloomi/index.html[Antora site],  xref:attachment$Barkan-Iman-slides.pdf[Barkan-Iman-slides.pdf] 
 
- - [[[DeVora]]] De Vora Ariel, _Étude et modélisation de l'environnement de bâtiments_, link:[Universite De Strasbourg], xref:attachment$De Vora-Ariel.pdf[De Vora-Ariel.pdf],  xref:attachment$De Vora-Ariel-slides.pdf[De Vora-Ariel-slides.pdf] 
+ - [[[DeVora]]] De Vora Ariel, _Étude et modélisation de l'environnement de bâtiments_, link:[Universite De Strasbourg], https://feelpp.github.io/solar-shading/solar-shading/devora/introduction.html[De Vora Ariel Antora page],  xref:attachment$De Vora-Ariel-slides.pdf[De Vora-Ariel-slides.pdf] 
 
  - [[[Dieng]]] Dieng Adama, _Amélioration de le convergence de newton pour des problèmes en temps, en utilisant des stratégies d’adaptation du pas de temps en fonction de la convergence de newton, ainsi qu’une stratégie sur la condition initiale basée sur une solution supposée sur un maillage grossier, et l’utilisation d’un réseau de neurones._, link:[Universite De Strasbourg], xref:attachment$Dieng-Adama.pdf[Dieng-Adama.pdf],  xref:attachment$Dieng-Adama-slides.pdf[Dieng-Adama-slides.pdf] 
 
