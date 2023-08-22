@@ -27,4 +27,4 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
  - [[[Schmittbiel]]] Schmittbiel Carl, _Ajustement de modèles brdf a des tables r_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], xref:attachment$Schmittbiel-Carl.pdf[Schmittbiel-Carl.pdf],  xref:attachment$Schmittbiel-Carl-slides.pdf[Schmittbiel-Carl-slides.pdf] 
 
  - [[[Wade]]] Wade Abdou, _Planification de
-mouvement_, link:[Irma], xref:attachment$Wade-Abdou.pdf[Wade-Abdou.pdf],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
+mouvement_, link:[Irma], https://feelpp.github.io/swimmer/swimmer/latest/StageAbdou/Introduction.html[> Antora Site],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
