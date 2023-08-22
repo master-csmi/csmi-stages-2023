@@ -7,6 +7,6 @@
 
  - [[[Lecourtier]]] Lecourtier Frédérique, _Méthode d'éléments finis pour les jumeaux numériques du foie_, link:[Cnrs - Icube], xref:attachment$Lecourtier-Frédérique.pdf[Lecourtier-Frédérique.pdf],  xref:attachment$Lecourtier-Frédérique-slides.pdf[Lecourtier-Frédérique-slides.pdf] 
 
- - [[[Palazzolo]]] Palazzolo Lucas, _Internship on numerical methods for optimizing the locomotion of flagellated micro-swimmers_, link:www.inria.fr[Inria], xref:attachment$Palazzolo-Lucas.pdf[Palazzolo-Lucas.pdf],  xref:attachment$Palazzolo-Lucas-slides.pdf[Palazzolo-Lucas-slides.pdf] 
+ - [[[Palazzolo]]] Palazzolo Lucas, _Shape optimisation for rigid objects in a Stokes flow_, link:www.inria.fr[Inria], xref:attachment$Palazzolo-Lucas.pdf[Palazzolo-Lucas.pdf],  xref:attachment$Palazzolo-Lucas-slides.pdf[Palazzolo-Lucas-slides.pdf], link:https://feelpp.github.io/feelpp-shapo/shapo/index.html[Antora Report : Geometric Shape Optimisation] 
 
  - [[[Schnoebelen]]] Schnoebelen Claire, _Méthodes géométriques pour les équations des ondes._, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], xref:attachment$Schnoebelen-Claire.pdf[Schnoebelen-Claire.pdf],  xref:attachment$Schnoebelen-Claire-slides.pdf[Schnoebelen-Claire-slides.pdf] 
