@@ -2,7 +2,7 @@
  - [[[AlidadiHeran]]] Alidadi Heran Sacha, _Estimation du volume consommé à partir de capteurs de température_, link:[Bdr Thermea France], xref:attachment$Alidadi Heran-Sacha.pdf[Alidadi Heran-Sacha.pdf],  xref:attachment$Alidadi Heran-Sacha-slides.pdf[Alidadi Heran-Sacha-slides.pdf] 
 
  - [[[Ballout]]] Ballout Hassan, _Reduced basis-ensemble kalman filter method 
-pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pdf],  xref:attachment$Ballout-Hassan-slides.pdf[Ballout-Hassan-slides.pdf] 
+pour les edp_, link:[Irma], link:https://master-csmi.github.io/2023-m1-ktirio-rbenkf/ktirio-rbenkf/index.html[Antora Report : Ktirio-RBEnKF],  xref:attachment$Ballout-Hassan-slides.pdf[Ballout-Hassan-slides.pdf] 
 
  - [[[Barkan]]] Barkan Iman, _Accélération de la saisie de modèles énergétiques_, link:[Universite De Strasbourg], https://feelpp.github.io/ktirio-iloomi/ktirio-iloomi/index.html[Antora site],  xref:attachment$Barkan-Iman-slides.pdf[Barkan-Iman-slides.pdf] 
 
@@ -16,7 +16,7 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
 
  - [[[Lelievre]]] Lelievre Thomas, _Extraction de modèles de terrain_, link:[Axessim], https://tcyla.github.io/internship-report-2023[Lelievre-Thomas-site],  xref:attachment$Lelievre-Thomas-slides.pdf[Lelievre-Thomas-slides.pdf] 
 
- - [[[Medessi]]] Medessi Seithondji Dieudonné, _Extraction de modèles numériques de terrain à partir de bases de données._, link:[Axessim], xref:attachment$Medessi-Seithondji Dieudonné.pdf[Medessi-Seithondji Dieudonné.pdf],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf] 
+ - [[[Medessi]]] Medessi Seithondji Dieudonné, _Extraction de modèles numériques de terrain à partir de bases de données._, link:https://www.axessim.fr/[Axessim], link:https://donnescopablo.github.io/csmi-m1-stage-2023-playbook[Medessi-Seithondji Dieudonné-rapport],  xref:attachment$Medessi-Seithondji Dieudonné-slides.pdf[Medessi-Seithondji Dieudonné-slides.pdf]
 
  - [[[Pawlus]]] Pawlus Jérémy, _Étude numérique des équations d'euler_, link:[Universite De Strasbourg - Ufr Math-Info], xref:attachment$Pawlus-Jérémy.pdf[Pawlus-Jérémy.pdf],  xref:attachment$Pawlus-Jérémy-slides.pdf[Pawlus-Jérémy-slides.pdf] 
 
@@ -27,4 +27,4 @@ pour les edp_, link:[Irma], xref:attachment$Ballout-Hassan.pdf[Ballout-Hassan.pd
  - [[[Schmittbiel]]] Schmittbiel Carl, _Ajustement de modèles brdf a des tables r_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], xref:attachment$Schmittbiel-Carl.pdf[Schmittbiel-Carl.pdf],  xref:attachment$Schmittbiel-Carl-slides.pdf[Schmittbiel-Carl-slides.pdf] 
 
  - [[[Wade]]] Wade Abdou, _Planification de
-mouvement_, link:[Irma], xref:attachment$Wade-Abdou.pdf[Wade-Abdou.pdf],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
+mouvement_, link:[Irma], https://feelpp.github.io/swimmer/swimmer/latest/StageAbdou/Introduction.html[> Antora Site],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
