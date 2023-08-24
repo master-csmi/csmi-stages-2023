@@ -26,5 +26,4 @@ pour les edp_, link:[Irma], link:https://master-csmi.github.io/2023-m1-ktirio-rb
 
  - [[[Schmittbiel]]] Schmittbiel Carl, _Amélioration de modèles d'approximation de tables-r_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], xref:attachment$Schmittbiel-Carl.pdf[Schmittbiel-Carl.pdf],  xref:attachment$Schmittbiel-Carl-slides.pdf[Schmittbiel-Carl-slides.pdf] 
 
- - [[[Wade]]] Wade Abdou, _Planification de
-mouvement_, link:[Irma], https://feelpp.github.io/swimmer/swimmer/latest/StageAbdou/Introduction.html[> Antora Site],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf] 
+ - [[[Wade]]] Wade Abdou, _Planification de mouvement_, link:[Irma], https://feelpp.github.io/swimmer/swimmer/latest/StageAbdou/Introduction.html[> Antora Site],  xref:attachment$Wade-Abdou-slides.pdf[Wade-Abdou-slides.pdf]
