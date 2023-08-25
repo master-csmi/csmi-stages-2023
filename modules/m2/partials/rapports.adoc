@@ -3,7 +3,7 @@
 
  - [[[CladellasHerodier]]] Cladellas Herodier Javier, _Développement d'un data lakehouse avec les données internes de l'entreprise._, link:https://applaudostudios.com/[App Solutions International Inc.], xref:attachment$Cladellas Herodier-Javier.pdf[Cladellas Herodier-Javier.pdf],  xref:attachment$Cladellas Herodier-Javier-slides.pdf[Cladellas Herodier-Javier-slides.pdf] 
 
- - [[[Gauthier]]] Gauthier Léonard, _Développement d’un plugin python pour la simulation des modèles thermiques nodaux_, link:https://www.thalesgroup.com/en[Thales Dms France], xref:attachment$Gauthier-Léonard.pdf[Gauthier-Léonard.pdf],  xref:attachment$Gauthier-Léonard-slides.pdf[Gauthier-Léonard-slides.pdf] 
+ - [[[Gauthier]]] Gauthier Léonard, _Développement d’un plugin python pour la simulation des modèles thermiques nodaux_, link:https://www.thalesgroup.com/fr[Thales Dms France], xref:attachment$Gauthier-Léonard.pdf[Gauthier-Léonard.pdf],  xref:attachment$Gauthier-Leonard-slides.pdf[Gauthier-Leonard-slides.pdf] 
 
  - [[[Lecourtier]]] Lecourtier Frédérique, _Méthode d'éléments finis pour les jumeaux numériques du foie_, link:[Cnrs - Icube], xref:attachment$Lecourtier-Frédérique.pdf[Lecourtier-Frédérique.pdf],  xref:attachment$Lecourtier-Frédérique-slides.pdf[Lecourtier-Frédérique-slides.pdf] 
 
