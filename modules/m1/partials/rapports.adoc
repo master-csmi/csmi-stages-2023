@@ -1,5 +1,7 @@
 
- - [[[AlidadiHeran]]] Alidadi Heran Sacha, _Estimation du volume consommé à partir de capteurs de température_, link:[Bdr Thermea France], xref:attachment$Alidadi Heran-Sacha.pdf[Alidadi Heran-Sacha.pdf],  xref:attachment$Alidadi Heran-Sacha-slides.pdf[Alidadi Heran-Sacha-slides.pdf] 
+ - [[[AlidadiHeran]]] Alidadi Heran Sacha, _Estimation du volume consommé à partir de capteurs de température_, link:[Bdr Thermea France], CONFIDENTIEL
+ 
+ // xref:attachment$Alidadi Heran-Sacha.pdf[Alidadi Heran-Sacha.pdf],  xref:attachment$Alidadi Heran-Sacha-slides.pdf[Alidadi Heran-Sacha-slides.pdf] 
 
  - [[[Ballout]]] Ballout Hassan, _Reduced basis-ensemble kalman filter method 
 pour les edp_, link:[Irma], link:https://master-csmi.github.io/2023-m1-ktirio-rbenkf/ktirio-rbenkf/index.html[Antora Report : Ktirio-RBEnKF],  xref:attachment$Ballout-Hassan-slides.pdf[Ballout-Hassan-slides.pdf] 
