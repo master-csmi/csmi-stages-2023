@@ -1,5 +1,5 @@
 
- - [[[Aydogdu]]] Aydogdu Melissa, _Business intelligence – immersion dans un contexte de production dédié à la mise en œuvre de solutions décisionnelles pour l’un des clients d’atos_, link:[Atos  France], xref:attachment$Aydogdu-Melissa.pdf[Aydogdu-Melissa.pdf],  xref:attachment$Aydogdu-Melissa-slides.pdf[Aydogdu-Melissa-slides.pdf] 
+ - [[[Aydogdu]]] Aydogdu Melissa, _Business intelligence – immersion dans un contexte de production dédié à la mise en œuvre de solutions décisionnelles pour l’un des clients d’atos_, link:[Atos  France], CONFIDENTIEL.
 
  - [[[CladellasHerodier]]] Cladellas Herodier Javier, _Développement d'un data lakehouse avec les données internes de l'entreprise._, link:https://applaudostudios.com/[App Solutions International Inc.], xref:attachment$Cladellas Herodier-Javier.pdf[Cladellas Herodier-Javier.pdf],  xref:attachment$Cladellas Herodier-Javier-slides.pdf[Cladellas Herodier-Javier-slides.pdf] 
 
